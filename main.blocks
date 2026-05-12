@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="-SRB^Ha)`Xg+Ch,Z2J/2" x="0" y="0"></block><block type="input_logo_event" id="liLn0v%YlNMe%xRW4;,g" x="-152" y="201"><field name="action">TouchButtonEvent.Touched</field><statement name="HANDLER"><block type="basic_show_icon" id=".~B|7b}Y7NR;i3ju=}^["><field name="i">IconNames.Heart</field></block></statement></block><block type="device_pin_event" id="Aysb2|oFX4()u@@1c?bj" x="44" y="291"><field name="name">TouchPin.P0</field></block><block type="input_logo_event" id="hfbb-@{J*.0Qa1=zKWvk" x="-203" y="317"><field name="action">TouchButtonEvent.Released</field><statement name="HANDLER"><block type="device_clear_display" id="uH;(qar^2-vWF8mk7M+v"></block></statement></block><block type="pxt-on-start" id="hH9mKDud[q_eOR!49+8s" x="67" y="326"></block><block type="input_on_sound" id="pph6yd;R3}qxvUw~oHo;" x="-171" y="431"><field name="sound">DetectedSound.Quiet</field><statement name="HANDLER"><block type="device_show_leds" id="FSWY]U/f4Df[AxpiMmjv"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        # # . . . 
+        # # . . . 
+        # # . . .
+        `</field></block></statement></block></xml>
